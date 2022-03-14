@@ -1,0 +1,15 @@
+D:\škola\MATURITA\RainMaker\RainMaker\bin\Debug\RainMaker.exe.config
+D:\škola\MATURITA\RainMaker\RainMaker\bin\Debug\RainMaker.exe
+D:\škola\MATURITA\RainMaker\RainMaker\bin\Debug\RainMaker.pdb
+D:\škola\MATURITA\RainMaker\RainMaker\obj\Debug\RainMaker.main_Form.resources
+D:\škola\MATURITA\RainMaker\RainMaker\obj\Debug\RainMaker.Properties.Resources.resources
+D:\škola\MATURITA\RainMaker\RainMaker\obj\Debug\RainMaker.csproj.GenerateResource.cache
+D:\škola\MATURITA\RainMaker\RainMaker\obj\Debug\RainMaker.csproj.CoreCompileInputs.cache
+D:\škola\MATURITA\RainMaker\RainMaker\obj\Debug\RainMaker.exe
+D:\škola\MATURITA\RainMaker\RainMaker\obj\Debug\RainMaker.pdb
+D:\škola\MATURITA\RainMaker\RainMaker\obj\Debug\RainMaker.csproj.AssemblyReference.cache
+D:\škola\MATURITA\RainMaker\RainMaker\obj\Debug\RainMaker.ImageEditorForm.resources
+D:\škola\MATURITA\RainMaker\RainMaker\obj\Debug\RainMaker.SkinSetupForm.resources
+D:\škola\MATURITA\RainMaker\RainMaker\obj\Debug\RainMaker.SettingsForm.resources
+D:\škola\MATURITA\RainMaker\RainMaker\obj\Debug\RainMaker.HelpForm.resources
+D:\škola\MATURITA\RainMaker\RainMaker\obj\Debug\RainMaker.csproj.SuggestedBindingRedirects.cache
